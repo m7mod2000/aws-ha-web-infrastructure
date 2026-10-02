@@ -7,7 +7,7 @@ The architecture hosts stateful web content backed by a distributed file system 
 
 ---
 
-## 🏗️ Architecture Architecture & Core Components
+## 🏗️ Architecture & Core Components
 - **Virtual Private Cloud (VPC):** Custom VPC spanning 2 Availability Zones (`us-east-1a`, `us-east-1b`) with isolated Public and Private subnets.
 - **Routing & Isolation:** 
   - Internet Gateway for public ingress/egress.
